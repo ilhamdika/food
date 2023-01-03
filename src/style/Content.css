@@ -1,0 +1,61 @@
+.title{
+    margin: 30px 0px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.contenKiri{
+    background: #EE7070;
+    margin: 20px 20px;
+}
+
+.contenKiri img{
+    max-width: 250px;
+    height: 250px;
+}
+
+.textflowleft {
+    margin: 10px;
+}
+
+.textflowleft h3 {
+    font-weight: bolder;
+}
+
+.textflowright {
+    margin: 10px;
+}
+
+.textflowright h3 {
+    font-weight: bolder;
+}
+
+.contenKanan {
+    background-color: #F16B13;
+    margin: 20px 20px;
+}
+
+.contenKanan img{
+    max-width: 250px;
+    height: 250px;
+}
+
+
+button {
+    height: 40px;
+    width: 200px;
+    background-color: #79A618;
+    border: none;
+}
+
+.shopNow{
+    transition: 1.5s ease all;
+}
+
+.shopNow:hover {
+    background-color: #1b1ec7;
+}
+
+
+
+

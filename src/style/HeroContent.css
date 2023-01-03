@@ -1,0 +1,26 @@
+.heroKiri {
+    margin: 50px 0px 50px 0px;
+}
+ .heroKiri h1 {
+    font-weight: bolder;
+ }
+
+ .heroKiri h1 span {
+    color: #79A618;
+ }
+
+ .heroKiri button {
+    width: 150px;
+    height: 40px;
+    background-color: #79A618;
+    border: none;
+ }
+
+.heroKanan {
+    background-color: #DBF0AD;
+}
+
+.heroKanan img {
+    max-width: 100%;
+    height: auto;
+}

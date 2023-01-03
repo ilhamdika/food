@@ -1,0 +1,51 @@
+.produk {
+    margin: 0px 100px;
+}
+
+#titleproduk{
+    text-align: center;
+    margin: 40px 0px;
+    font-weight: bolder;
+}
+ .harga {
+    font-weight: bold;
+    text-align: right;
+ }
+.cardproduk {
+    border: none;
+}
+
+#buyeat{
+    width: 100px;
+    text-align: center;
+    border-radius: 30px;
+    transition: 2s ease all;
+}
+
+#buyeat:hover{
+    background-color: blue;
+}
+
+
+#cardtry{
+    margin-top:40px;
+}
+
+
+#cardsize {
+    max-width: 500px;
+    max-height: 300px;
+}
+
+
+
+.right {
+    margin: 30px 0px;
+    align-items: flex-end;
+    border-radius: 50px;
+}
+
+.right Button{
+    border-radius: 40px;
+    align-items: flex-end;
+}
